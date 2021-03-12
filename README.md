@@ -15,7 +15,7 @@
 ## Bio
 
 Hi, I'm Dominik Procházka, a Full Stack Developer and Freelancer from Czechia, Prague.
-Currently workin with PHP7.3/PHP7.4 and [Nette 3](https://nette.org/) with [Contributte](https://contributte.org/) and [Symfony](https://symfony.com/) packages for backend, and 
+Currently workin with [PHP](https://www.php.net/) and [Nette](https://nette.org/) with [Contributte](https://contributte.org/) and [Symfony](https://symfony.com/) packages for backend, and 
 [Latte](https://latte.nette.org/) + [Webpack](https://webpack.js.org/) for frontend.
 
 ## Languages and Tools:
@@ -29,8 +29,5 @@ Currently workin with PHP7.3/PHP7.4 and [Nette 3](https://nette.org/) with [Cont
 <code><img title="Redis" height="20" src="https://redis.io/images/favicon.png"></code>
 <code><img title="Docker" height="20" src="https://www.docker.com/favicon.ico"></code>
 <code><img title="Webpack" height="20" src="https://webpack.js.org/icon_192x192.png"></code>
-
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Domm98CZ&show_icons=true)
-
 
 <p><a href="https://Domm.cz">🌐 Check out my website</a></p>

@@ -9,9 +9,6 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br />
-<br />
-
 ## Bio
 
 Hi, I'm Dominik Procházka, a Full Stack Developer and Freelancer from Czechia, Prague.

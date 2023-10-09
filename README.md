@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Dominik Procházka, full stack developer and freelancer from Czechia, Prague.
 
